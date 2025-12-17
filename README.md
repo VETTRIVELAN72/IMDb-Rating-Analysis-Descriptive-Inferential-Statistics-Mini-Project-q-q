@@ -1,30 +1,61 @@
-🔹 IMDb-Rating-Analysis-Descriptive-Inferential-Statistics-Mini-Project 🎬📊
+ 🎬 Mini Project: IMDb Rating Analysis
 
-I recently completed a mini data analysis project using the IMDb Top 250 Shows dataset, where the focus was on applying Descriptive and Inferential Statistics to understand what drives IMDb ratings.
+ Focus: Descriptive & Inferential Statistics
+📌 Project Overview
+This project explores the IMDb Top 250 Shows dataset to understand rating patterns using descriptive and inferential statistical techniques. The goal is to extract meaningful insights from historical IMDb data before applying predictive models.
 
-🔍What I worked on:
+📊 Descriptive Statistics
 
-Performed descriptive analysis (mean, median, variance, distribution) to understand IMDb ratings and vote counts.
+Analyzed central tendency (mean, median, mode) of IMDb ratings.
 
-Analyzed rating distributions across years and genres.
+Measured dispersion using variance and standard deviation.
 
-Studied relationships between number of votes and ratings using correlation analysis.
+Studied distribution shapes of ratings and votes.
 
-Applied inferential statistics to identify statistically significant patterns and trends.
+Identified outliers and data consistency.
 
-Visualized insights using histograms, scatter plots, bar charts, and correlation heatmaps.
+📈 Inferential Statistics
 
-📈 Key Insights:
+Examined relationships between votes and ratings using correlation.
 
-IMDb ratings show a tight distribution, indicating consistent audience scoring for top-rated shows.
+Compared rating behavior across genres and time periods.
 
-Shows with higher vote counts generally maintain stable ratings, suggesting stronger audience consensus.
+Used statistical evidence to validate observed trends.
 
-Certain genres consistently outperform others in average ratings.
+Supported conclusions using data-driven reasoning rather than assumptions.
 
-Statistical relationships helped validate patterns beyond visual intuition.
+📉 Visual Analysis
 
-🛠 Tools Used:
-Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn
+Rating distribution plots
 
-This project strengthened my foundation in EDA, statistical thinking, and data storytelling, which are essential skills for real-world data science problems.
+Votes vs Ratings scatter plots
+
+Genre-wise average ratings
+
+Correlation heatmap of numeric features
+
+🧰 Tech Stack
+
+Python
+
+Pandas & NumPy
+
+Matplotlib & Seaborn
+
+Scikit-learn (for preprocessing support)
+
+✅ Key Takeaways
+
+Statistical analysis provides strong intuition before model building.
+
+IMDb ratings are influenced more by consistency of audience engagement than sheer popularity.
+
+Combining descriptive and inferential statistics improves analytical confidence.
+
+🚀 Future Enhancements
+
+Hypothesis testing (ANOVA / t-tests)
+
+Regression-based inference
+
+Advanced feature importance analysis
